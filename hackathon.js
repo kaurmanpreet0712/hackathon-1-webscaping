@@ -42,7 +42,7 @@ async function main(){
   await instagram(finalData,newstype);
   await voicefeature(finalData,newstype);
 
-  //whatsapp
+  //whatsappmessage
   async function whatsapp(finalData,newstype){
     let newpage=await browser.newPage();
     await newpage.setDefaultNavigationTimeout(0);
