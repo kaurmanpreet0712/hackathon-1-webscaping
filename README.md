@@ -5,6 +5,6 @@ This automation project does the following work:
 
 *Fetches news from inshorts 
 *Sends those news with headlines and description in whatsapp groups as well as Instagram. 
-* Then read those headlines using hashtag#voicemaker
+* Then read those headlines using voicemaker
 
  
